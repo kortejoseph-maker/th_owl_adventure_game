@@ -91,7 +91,15 @@ public class CursorManager : MonoBehaviour
             SetCursor(cursorInteract);
             return;
         }
-        Texture2D scaled = ScaleTexture(icon.texture, cursorScale);
+        // Extract the sprite's sub-region in case it comes from a sprite sheet,
+        // otherwise the entire sheet would get pinned to the cursor.
+        Texture2D iconTex = SpriteToTexture(icon);
+        if (iconTex == null)
+        {
+            SetCursor(cursorInteract);
+            return;
+        }
+        Texture2D scaled = ScaleTexture(iconTex, cursorScale);
         Cursor.SetCursor(scaled, new Vector2(scaled.width / 2f, scaled.height / 2f), CursorMode.Auto);
     }
 
