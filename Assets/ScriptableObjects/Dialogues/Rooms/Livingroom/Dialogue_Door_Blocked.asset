@@ -15,5 +15,11 @@ MonoBehaviour:
   lines:
   - speaker: {fileID: 11400000, guid: 0033f0343c9a4834ea412ac30f0b5605, type: 2}
     text: Ich habe noch nicht alles zusammen.
+  - speaker: {fileID: 11400000, guid: 0033f0343c9a4834ea412ac30f0b5605, type: 2}
+    text: 'Ich brauche  eine volle Wasserflasche, ein aufgeladenes Handy, meinen
+      Studierendenausweis und den USB-Stick,
+
+      sonst kann ich nicht aus der
+      Wohnung raus.'
   options: []
   repeatingDialogue: {fileID: 11400000, guid: eca9466e498157946811d2546f8aaa17, type: 2}
