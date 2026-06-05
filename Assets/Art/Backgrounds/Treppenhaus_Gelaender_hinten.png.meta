@@ -1,28 +1,28 @@
 fileFormatVersion: 2
-guid: 48caba51a70638f4fa247392f98600a8
+guid: 621031a391949974cb0d6cdda80aae0a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4492360400461121508
-    second: Treppenhaus_Stufen 1_0
+      213: 5381917690792704555
+    second: Treppenhaus_Gelaender_hinten_0
   - first:
-      213: 7884979550277656225
-    second: Treppenhaus_Stufen 1_1
+      213: -3973429060782593623
+    second: Treppenhaus_Gelaender_hinten_1
   - first:
-      213: -1680003840994938597
-    second: Treppenhaus_Stufen 1_2
+      213: 6196953124343180609
+    second: Treppenhaus_Gelaender_hinten_2
   - first:
-      213: -5768356206805496746
-    second: Treppenhaus_Stufen 1_3
+      213: -497809259186873453
+    second: Treppenhaus_Gelaender_hinten_3
   - first:
-      213: -8203697156229227723
-    second: Treppenhaus_Stufen 1_4
+      213: -1567612694917502374
+    second: Treppenhaus_Gelaender_hinten_4
   - first:
-      213: -5155851037991814460
-    second: Treppenhaus_Stufen 1_5
+      213: -2229755748036978071
+    second: Treppenhaus_Gelaender_hinten_5
   - first:
-      213: 5700881000914916065
-    second: Treppenhaus_Stufen 1_6
+      213: -1002958169331588571
+    second: Treppenhaus_Gelaender_hinten_6
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -118,13 +118,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Treppenhaus_Stufen 1_0
+      name: Treppenhaus_Gelaender_hinten_0
       rect:
         serializedVersion: 2
-        x: 140
-        y: 1445
-        width: 225
-        height: 163
+        x: 132
+        y: 1374
+        width: 242
+        height: 168
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -133,20 +133,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4e744809bf1185e30800000000000000
-      internalID: 4492360400461121508
+      spriteID: b2af61a00a960ba40800000000000000
+      internalID: 5381917690792704555
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Treppenhaus_Stufen 1_1
+      name: Treppenhaus_Gelaender_hinten_1
       rect:
         serializedVersion: 2
-        x: 140
-        y: 1220
-        width: 225
-        height: 163
+        x: 133
+        y: 1149
+        width: 242
+        height: 168
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -155,20 +155,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1aed483ef131d6d60800000000000000
-      internalID: 7884979550277656225
+      spriteID: 9a9e6d3425b8bd8c0800000000000000
+      internalID: -3973429060782593623
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Treppenhaus_Stufen 1_2
+      name: Treppenhaus_Gelaender_hinten_2
       rect:
         serializedVersion: 2
-        x: 140
-        y: 995
-        width: 225
-        height: 163
+        x: 133
+        y: 924
+        width: 242
+        height: 168
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -177,20 +177,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b11743c586d6fa8e0800000000000000
-      internalID: -1680003840994938597
+      spriteID: 14de832a800000650800000000000000
+      internalID: 6196953124343180609
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Treppenhaus_Stufen 1_3
+      name: Treppenhaus_Gelaender_hinten_3
       rect:
         serializedVersion: 2
-        x: 140
-        y: 770
-        width: 225
-        height: 163
+        x: 132
+        y: 699
+        width: 242
+        height: 168
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -199,20 +199,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 65c407b879ea2ffa0800000000000000
-      internalID: -5768356206805496746
+      spriteID: 39b1444cd1d6719f0800000000000000
+      internalID: -497809259186873453
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Treppenhaus_Stufen 1_4
+      name: Treppenhaus_Gelaender_hinten_4
       rect:
         serializedVersion: 2
-        x: 140
-        y: 545
-        width: 225
-        height: 163
+        x: 133
+        y: 474
+        width: 242
+        height: 168
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -221,20 +221,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 53b1316c6ec962e80800000000000000
-      internalID: -8203697156229227723
+      spriteID: a5aac0e3f88be3ae0800000000000000
+      internalID: -1567612694917502374
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Treppenhaus_Stufen 1_5
+      name: Treppenhaus_Gelaender_hinten_5
       rect:
         serializedVersion: 2
-        x: 140
-        y: 320
-        width: 225
-        height: 163
+        x: 133
+        y: 249
+        width: 242
+        height: 168
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -243,20 +243,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4ca3bad3cccb278b0800000000000000
-      internalID: -5155851037991814460
+      spriteID: 96ade5ef5f05e01e0800000000000000
+      internalID: -2229755748036978071
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Treppenhaus_Stufen 1_6
+      name: Treppenhaus_Gelaender_hinten_6
       rect:
         serializedVersion: 2
-        x: 140
-        y: 95
-        width: 225
-        height: 163
+        x: 133
+        y: 24
+        width: 242
+        height: 168
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -265,8 +265,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1e29e46d0199d1f40800000000000000
-      internalID: 5700881000914916065
+      spriteID: 5222a60ebd6c412f0800000000000000
+      internalID: -1002958169331588571
       vertices: []
       indices: 
       edges: []
@@ -285,13 +285,13 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Treppenhaus_Stufen 1_0: 4492360400461121508
-      Treppenhaus_Stufen 1_1: 7884979550277656225
-      Treppenhaus_Stufen 1_2: -1680003840994938597
-      Treppenhaus_Stufen 1_3: -5768356206805496746
-      Treppenhaus_Stufen 1_4: -8203697156229227723
-      Treppenhaus_Stufen 1_5: -5155851037991814460
-      Treppenhaus_Stufen 1_6: 5700881000914916065
+      Treppenhaus_Gelaender_hinten_0: 5381917690792704555
+      Treppenhaus_Gelaender_hinten_1: -3973429060782593623
+      Treppenhaus_Gelaender_hinten_2: 6196953124343180609
+      Treppenhaus_Gelaender_hinten_3: -497809259186873453
+      Treppenhaus_Gelaender_hinten_4: -1567612694917502374
+      Treppenhaus_Gelaender_hinten_5: -2229755748036978071
+      Treppenhaus_Gelaender_hinten_6: -1002958169331588571
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
