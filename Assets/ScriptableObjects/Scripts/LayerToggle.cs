@@ -10,6 +10,9 @@ using UnityEngine;
 /// but this component can also switch layers automatically if the object
 /// itself has a trigger collider. Entering the collider switches to the
 /// foreground layer, leaving it switches back to the background layer.
+/// 
+/// Additionally, this script can toggle separate colliders enabled state
+/// when switching layers.
 /// </summary>
 [RequireComponent(typeof(SpriteRenderer))]
 public class LayerToggle : MonoBehaviour
@@ -17,6 +20,10 @@ public class LayerToggle : MonoBehaviour
     [Header("Sorting Layer Settings")]
     public string backgroundSortingLayer = "Background";
     public string foregroundSortingLayer = "Fade";
+
+    [Header("Temporary Walls to toggle")]
+    public GameObject WallInForeground;
+    public GameObject WallInBackground;
 
     private SpriteRenderer _sr;
 
@@ -28,11 +35,19 @@ public class LayerToggle : MonoBehaviour
     public void TriggerBackground()
     {
         _sr.sortingLayerName = backgroundSortingLayer;
+        if (WallInForeground != null)
+            WallInForeground.SetActive(true);
+        if (WallInBackground != null)
+            WallInBackground.SetActive(false);
     }
 
     public void TriggerForeground()
     {
         _sr.sortingLayerName = foregroundSortingLayer;
+        if (WallInForeground != null)
+            WallInForeground.SetActive(false);
+        if (WallInBackground != null)
+            WallInBackground.SetActive(true);
     }
     
     // automatic switching if this object has its own trigger collider
