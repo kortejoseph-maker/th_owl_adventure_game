@@ -175,7 +175,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3377309631456093620, guid: 9dbff4ff650bc4d48bd6aa96d4899d79, type: 3}
       propertyPath: m_Name
-      value: Item_Banana_3
+      value: banana_3
       objectReference: {fileID: 0}
     - target: {fileID: 5994863066533347574, guid: 9dbff4ff650bc4d48bd6aa96d4899d79, type: 3}
       propertyPath: m_Size.y
@@ -288,6 +288,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CleanupItem
   cleanupDialogue: {fileID: 0}
   group: {fileID: 1583620567}
+  itemID: 
 --- !u!114 &168227721
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -516,7 +517,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3377309631456093620, guid: 9dbff4ff650bc4d48bd6aa96d4899d79, type: 3}
       propertyPath: m_Name
-      value: Item_Banana_2
+      value: banana_2
       objectReference: {fileID: 0}
     - target: {fileID: 5994863066533347574, guid: 9dbff4ff650bc4d48bd6aa96d4899d79, type: 3}
       propertyPath: m_Size.y
@@ -621,6 +622,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CleanupItem
   cleanupDialogue: {fileID: 0}
   group: {fileID: 1583620567}
+  itemID: 
 --- !u!114 &300536500
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1306,6 +1308,7 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &543979916
 SpriteRenderer:
+  serializedVersion: 2
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -1351,6 +1354,7 @@ SpriteRenderer:
   m_SortingLayerID: -569072489
   m_SortingLayer: 1
   m_SortingOrder: 1
+  m_MaskInteraction: 0
   m_Sprite: {fileID: 1086026619, guid: a1df2decf31774945a91e9ed03b922cd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -1360,7 +1364,6 @@ SpriteRenderer:
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &574603497 stripped
 Transform:
@@ -1428,7 +1431,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3377309631456093620, guid: 9dbff4ff650bc4d48bd6aa96d4899d79, type: 3}
       propertyPath: m_Name
-      value: Item_Banana
+      value: banana_1
       objectReference: {fileID: 0}
     - target: {fileID: 3377309631456093620, guid: 9dbff4ff650bc4d48bd6aa96d4899d79, type: 3}
       propertyPath: m_Layer
@@ -1545,6 +1548,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CleanupItem
   cleanupDialogue: {fileID: 0}
   group: {fileID: 1583620567}
+  itemID: 
 --- !u!114 &593660805
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1978,6 +1982,7 @@ GameObject:
   m_IsActive: 1
 --- !u!212 &692626323
 SpriteRenderer:
+  serializedVersion: 2
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -2023,6 +2028,7 @@ SpriteRenderer:
   m_SortingLayerID: -569072489
   m_SortingLayer: 1
   m_SortingOrder: 0
+  m_MaskInteraction: 0
   m_Sprite: {fileID: 2909710671531299024, guid: ce4b0d6f237cb0742961d463bbb48e70, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -2032,7 +2038,6 @@ SpriteRenderer:
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &692626324
 Transform:
@@ -3748,7 +3753,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3377309631456093620, guid: 9dbff4ff650bc4d48bd6aa96d4899d79, type: 3}
       propertyPath: m_Name
-      value: Item_Banana_4
+      value: banana_4
       objectReference: {fileID: 0}
     - target: {fileID: 5994863066533347574, guid: 9dbff4ff650bc4d48bd6aa96d4899d79, type: 3}
       propertyPath: m_Size.y
@@ -3853,6 +3858,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CleanupItem
   cleanupDialogue: {fileID: 0}
   group: {fileID: 1583620567}
+  itemID: 
 --- !u!114 &1806890259
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3902,6 +3908,7 @@ GameObject:
   m_IsActive: 1
 --- !u!212 &1888583726
 SpriteRenderer:
+  serializedVersion: 2
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -3947,6 +3954,7 @@ SpriteRenderer:
   m_SortingLayerID: -569072489
   m_SortingLayer: 1
   m_SortingOrder: 2
+  m_MaskInteraction: 0
   m_Sprite: {fileID: 2343364255203954103, guid: a8a8ed99b7b69fd41a9538820e3d1e4f, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -3956,7 +3964,6 @@ SpriteRenderer:
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1888583727
 Transform:
