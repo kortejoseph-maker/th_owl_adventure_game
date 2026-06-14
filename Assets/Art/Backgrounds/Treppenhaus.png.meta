@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 531961896544506498d014f92a4b3415
+guid: cf38af65aa74f224a96702529ed356b8
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6111663233498495903
-    second: Eingangsbereich 1_0
+      213: -8188133143439432257
+    second: Treppenhaus_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Eingangsbereich 1_0
+      name: Treppenhaus_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 580
-        height: 516
+        width: 500
+        height: 1900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 164c18c8ba20f2ba0800000000000000
-      internalID: -6111663233498495903
+      spriteID: fb5a0b3e948ed5e80800000000000000
+      internalID: -8188133143439432257
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Eingangsbereich 1_0: -6111663233498495903
+      Treppenhaus_0: -8188133143439432257
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
