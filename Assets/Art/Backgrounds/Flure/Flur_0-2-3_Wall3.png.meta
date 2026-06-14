@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 531961896544506498d014f92a4b3415
+guid: ececf3c4251f1e548a93941174599f48
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6111663233498495903
-    second: Eingangsbereich 1_0
+      213: -1140645797210493743
+    second: Flur_2_Wall4_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Eingangsbereich 1_0
+      name: Flur_2_Wall4_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 580
-        height: 516
+        x: 9
+        y: 382
+        width: 752
+        height: 85
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 164c18c8ba20f2ba0800000000000000
-      internalID: -6111663233498495903
+      spriteID: 1dce9bad0bc9b20f0800000000000000
+      internalID: -1140645797210493743
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Eingangsbereich 1_0: -6111663233498495903
+      Flur_2_Wall4_0: -1140645797210493743
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
