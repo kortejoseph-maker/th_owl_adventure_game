@@ -106,8 +106,8 @@ TextureImporter:
       name: Audimax_Pfeiler_0
       rect:
         serializedVersion: 2
-        x: 176
-        y: 304
+        x: 156
+        y: 144
         width: 26
         height: 201
       alignment: 0
@@ -128,8 +128,8 @@ TextureImporter:
       name: Audimax_Pfeiler_1
       rect:
         serializedVersion: 2
-        x: 698
-        y: 304
+        x: 542
+        y: 144
         width: 26
         height: 201
       alignment: 0

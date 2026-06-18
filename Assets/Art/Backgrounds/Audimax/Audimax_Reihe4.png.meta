@@ -106,9 +106,9 @@ TextureImporter:
       name: Audimax_Reihe4_0
       rect:
         serializedVersion: 2
-        x: 178
-        y: 265
-        width: 221
+        x: 119
+        y: 234
+        width: 194
         height: 58
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -128,9 +128,9 @@ TextureImporter:
       name: Audimax_Reihe4_1
       rect:
         serializedVersion: 2
-        x: 501
-        y: 265
-        width: 221
+        x: 411
+        y: 233
+        width: 194
         height: 58
       alignment: 0
       pivot: {x: 0, y: 0}

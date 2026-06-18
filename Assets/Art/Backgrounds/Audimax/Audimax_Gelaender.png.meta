@@ -106,10 +106,10 @@ TextureImporter:
       name: Audimax_Gelaender_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 134
-        width: 82
-        height: 273
+        x: 9
+        y: 101
+        width: 73
+        height: 146
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,10 +128,10 @@ TextureImporter:
       name: Audimax_Gelaender_1
       rect:
         serializedVersion: 2
-        x: 818
-        y: 134
-        width: 82
-        height: 273
+        x: 642
+        y: 100
+        width: 73
+        height: 147
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
